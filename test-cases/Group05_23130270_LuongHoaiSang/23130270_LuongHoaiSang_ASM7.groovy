@@ -628,3 +628,4 @@ try {
 if (failedTests > 0) {
     KeywordUtil.markFailed("C\u00F3 ${failedTests}/${totalTests} test case FAIL - xem Log Viewer \u0111\u1EC3 bi\u1EBFt chi ti\u1EBFt")
 }
+// Ket thuc chuong trinh

@@ -8,8 +8,8 @@
 
 | STT | Chức năng | File Test Case |
 |-----|-----------|---------------|
-| 1 | _(Chức năng 1)_ | Group05_23130062_NguyenKhanhDinh.xlsx |
-| 2 | _(Chức năng 2)_ | Group05_23130062_NguyenKhanhDinh.xlsx |
+| 1 |Chức năng điền thông tin giao hàng | Group05_23130062_NguyenKhanhDinh.xlsx |
+| 2 | Chức năng điền và kiểm tra form khảo sát | Group05_23130062_NguyenKhanhDinh.xlsx |
 | 3 | _(Chức năng 3)_ | Group05_23130062_NguyenKhanhDinh.xlsx |
 
 ## Ghi chú
